@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf5e93-3345-470e-b527-39c7dddab10b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RL/AI-RL_in_python/Warmup/Gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section1-Warmup/Gradient_descent.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+            <state relative-caret-position="850">
+              <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="52" />
+              <folding>
+                <element signature="e#221#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
                 <element signature="e#221#268#0" expanded="true" />
               </folding>
@@ -54,6 +63,7 @@
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Warmup/Gradient_descent.py" />
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter.py" />
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py" />
+        <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py" />
       </list>
     </option>
   </component>
@@ -127,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.epsilon_greedy_starter_with_eps_decay">
+  <component name="RunManager" selected="Python.optimistic_starter">
     <configuration name="Gradient_descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,8 +201,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="optimistic_starter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.optimistic_starter" />
         <item itemvalue="Python.epsilon_greedy_starter_with_eps_decay" />
         <item itemvalue="Python.epsilon_greedy_starter" />
         <item itemvalue="Python.Gradient_descent" />
@@ -258,8 +290,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="59" column="45" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="45" />
+        <state relative-caret-position="850">
+          <caret line="66" column="52" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="52" />
+          <folding>
+            <element signature="e#221#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
             <element signature="e#221#268#0" expanded="true" />
           </folding>
