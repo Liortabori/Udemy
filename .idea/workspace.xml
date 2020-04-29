@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf5e93-3345-470e-b527-39c7dddab10b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/ucb1_starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/bayesian_starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,50 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-              <folding>
-                <element signature="e#221#268#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="66" column="52" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="52" />
-              <folding>
-                <element signature="e#221#268#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding>
-                <element signature="e#221#268#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/ucb1_starter.py">
+        <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="229">
+              <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
               <folding>
-                <element signature="e#346#393#0" expanded="true" />
+                <element signature="e#956#1003#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +35,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="dd009cdc-37bd-4afa-b65b-d81978ddf616" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -77,6 +46,8 @@
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter_with_eps_decay.py" />
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/optimistic_starter.py" />
         <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/ucb1_starter.py" />
+        <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/bayesian_starter.py" />
+        <option value="$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py" />
       </list>
     </option>
   </component>
@@ -94,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,18 +90,27 @@
               <item name="AI-RL_in_python" type="462c0819:PsiDirectoryNode" />
               <item name="Section2-MultiArmedBandit" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="RL" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-RL_in_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Section4-Tic_Tac_Toe" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Udemy" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ltabori\Desktop\Udemy\RL\AI-RL_in_python\Section4-Tic_Tac_Toe" />
       <recent name="C:\Users\ltabori\Desktop\Udemy\RL\AI-RL_in_python\Section2-MultiArmedBandit" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -150,29 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ucb1_starter">
-    <configuration name="Gradient_descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/AI-RL_in_python/Warmup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/AI-RL_in_python/Warmup/Gradient_descent.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="epsilon_greedy_starter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.tic_tac_toe">
+    <configuration name="bayesian_starter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/epsilon_greedy_starter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/bayesian_starter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,6 +193,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ucb1_starter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tic_tac_toe" />
+        <item itemvalue="Python.bayesian_starter" />
         <item itemvalue="Python.ucb1_starter" />
         <item itemvalue="Python.optimistic_starter" />
         <item itemvalue="Python.epsilon_greedy_starter_with_eps_decay" />
-        <item itemvalue="Python.epsilon_greedy_starter" />
-        <item itemvalue="Python.Gradient_descent" />
       </list>
     </recent_temporary>
   </component>
@@ -283,20 +262,20 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3285968" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.56483126" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3285968" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.56483126" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -345,10 +324,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/ucb1_starter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="-417">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="15" />
           <folding>
             <element signature="e#346#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section2-MultiArmedBandit/bayesian_starter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-end-line="76" selection-end-column="26" />
+          <folding>
+            <element signature="e#221#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RL/AI-RL_in_python/Section4-Tic_Tac_Toe/tic_tac_toe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding>
+            <element signature="e#956#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>
